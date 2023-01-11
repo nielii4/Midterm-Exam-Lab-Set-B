@@ -1,0 +1,11 @@
+{
+  "name": "niel-villanueva-lab-set-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "start": "node exam"
+  },
+  "author": "Niel Villanueva",
+  "license": "ISC"
+}
